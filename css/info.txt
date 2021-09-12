@@ -1,4 +1,0 @@
-Verlinkt auf 
-
-<link rel="stylesheet" href="../../css/main.css">
-<link rel="stylesheet" href="../../css/debug.css">
