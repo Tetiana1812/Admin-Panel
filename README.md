@@ -1,5 +1,5 @@
 # Admin-Panel
-Das könnte AdminPanel sein.
+Das könnte AdminPanel sein.<br>
 Für diese Aufgabe wurden ingesamt 6 Klassen erstellt:
 •	Klasse Motor
 •	Klasse Karosserie
