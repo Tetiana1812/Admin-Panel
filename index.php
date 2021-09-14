@@ -362,7 +362,7 @@ if(DEBUG)	echo "</pre>";  */
 				</fieldset>
 			</form>
 		
-			<?php if( !empty($pkwArray) AND !empty($lkwArray)) : ?>
+			<?php if( !empty($pkwArray) OR !empty($lkwArray)) : ?>
 				<h3>Fahrzeuge, dieschon in der DB ausgespeichert wurden</h3>
 				<?php if( !empty($pkwArray) ) : ?>
 					<table>
